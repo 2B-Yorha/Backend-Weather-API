@@ -27,9 +27,10 @@ for any city in the world.
 ### Installation
 1. Clone the repo:
    git clone https://github.com/2B-Yorha/Backend-Weather-API.git
-2. Add your API key in application.properties
+2. get your API key from: https://openweathermap.org
+3. Add your API key in application.properties
    weather.api.key= _your Api Key Here_
-3. Run the applicaiton in Intellij
+4. Run the applicaiton in Intellij
 
 
 ### Endpoints for PostMan
